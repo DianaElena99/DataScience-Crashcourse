@@ -1,2 +1,2 @@
-# DataScience-SelfLearning
+# DataScience Crash Course
 Data Science exercises 
